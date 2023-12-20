@@ -12,3 +12,4 @@ main()
         printf("Difference= ",diff);
 	return 0
 }
+edited
